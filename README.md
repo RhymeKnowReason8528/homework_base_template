@@ -3,7 +3,7 @@
 ## Procedure for creating weekly homework
 
 1. Make a copy of this repository named `homework_week_x_template`.
-2. Change `rootProject.name` in `settings.gradle` and sync Gradle.
+2. Change `rootProject.name` in `settings.gradle` to "homework_week_x" and sync Gradle.
 2. Add the necessary classes (both in main and test).
 3. Remember to create run configurations with the `share` option checked. There's already one to run the tests.
 4. Explain exactly what is expected in the README.md file.
